@@ -1,0 +1,3 @@
+digraph G {
+Johnson -> said[label = "1"];said -> that[label = "1"];
+}
